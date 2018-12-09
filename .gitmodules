@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/inconshreveable/log15"]
+	path = vendor/github.com/inconshreveable/log15
+	url = https://github.com/inconshreveable/log15
